@@ -14,12 +14,15 @@ autenticación y Lombok para reducir el boilerplate del código.
 
 ## Instalación
 
-Pasos detallados para instalar el proyecto. Por ejemplo:
+Para ejecutar este proyecto localmente, sigue estos pasos:
 
-1. Clona el repositorio: `git clone https://github.com/Elsarmi/crud-user-application`
-2. Navega hasta el directorio del proyecto: `cd NOMBRE_DEL_PROYECTO`
-3. Instala las dependencias: `comando_para_instalar_dependencias`
-4. Inicia el servidor: `comando_para_iniciar_el_servidor`
+1. Clona el repositorio en tu máquina local `git clone https://github.com/Elsarmi/crud-user-application/tree/main/api-rest-exercise`
+2. Asegúrate de tener instalado JDK 11 o una versión superior.
+3. Asegúrate de tener Gradle instalado, puedes obtenerlo [aquí](https://gradle.org/install/).
+4. Instala las dependencias: `gradle build`
+5. Inicia el servidor: `gradle bootRun`
+
+Una vez que la aplicación esté en marcha, puedes interactuar con la API a través de la siguiente ruta base: `http://localhost:8080/`.
 
 ## Uso
 
