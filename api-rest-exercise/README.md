@@ -33,8 +33,8 @@ Rutas de la API:
 
 - POST `/users`: Crea un nuevo usuario.
 - GET `/users/{id}`: Obtiene el usuario con el ID especificado.
-- PUT `/users/{id}`: Actualiza el usuario con el ID especificado.
-- DELETE `/users/{id}`: Elimina el usuario con el ID especificado.
+- PUT `/users/{id}`: Actualiza el usuario con el ID especificado (Pendiente)
+- DELETE `/users/{id}`: Elimina el usuario con el ID especificado (Pendiente)
 
 ## Pruebas
 
