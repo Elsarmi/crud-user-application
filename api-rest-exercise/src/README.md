@@ -16,7 +16,7 @@ autenticación y Lombok para reducir el boilerplate del código.
 
 Pasos detallados para instalar el proyecto. Por ejemplo:
 
-1. Clona el repositorio: `git clone URL_DEL_REPOSITORIO`
+1. Clona el repositorio: `git clone [URL_DEL_REPOSITORIO](https://github.com/Elsarmi/crud-user-application)`
 2. Navega hasta el directorio del proyecto: `cd NOMBRE_DEL_PROYECTO`
 3. Instala las dependencias: `comando_para_instalar_dependencias`
 4. Inicia el servidor: `comando_para_iniciar_el_servidor`
