@@ -6,7 +6,7 @@ autenticación y Lombok para reducir el boilerplate del código.
 
 ## Características
 
-- Crear, leer, actualizar y eliminar (CRUD) usuarios.
+- Creacion y busqueda de usuarios.
 - Autenticación a través de tokens JWT.
 - Validación de datos de entrada con la librería de validación de Spring Boot.
 - Pruebas unitarias con JUnit y Mockito.
